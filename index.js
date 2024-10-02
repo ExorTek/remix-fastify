@@ -1,4 +1,4 @@
-"use strict";
+'use strict';
 
 const fastifyPlugin = require('fastify-plugin');
 const path = require('node:path');
