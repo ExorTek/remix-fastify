@@ -1,6 +1,6 @@
 {
   "name": "@exortek/remix-fastify",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Fastify server plugin for Remix",
   "main": "index.js",
   "type": "commonjs",
